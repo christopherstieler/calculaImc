@@ -1,1 +1,0 @@
-<h1> Curso de Lógica da Alura com JavaScript </h1>
